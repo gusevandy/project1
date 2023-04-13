@@ -1,5 +1,3 @@
-# Записки gusevandy
-
 ## курсы
 - Ускорение и Оптимизация 1С, Базовый курс (2022) [https://курсы-по-1с.рф/courses/optimization-base-course-2022/#detailed_content](https://xn----1-bedvffifm4g.xn--p1ai/courses/optimization-base-course-2022/#detailed_content "Alt+Click to open https://курсы-по-1с.рф/courses/optimization-base-course-2022/#detailed_content in a new tab")
 
